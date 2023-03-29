@@ -14,6 +14,8 @@ TagManager:
   - Ground
   - modal
   - modalChild
+  - FxTemporaire
+  - 000
   layers:
   - Default
   - TransparentFX
